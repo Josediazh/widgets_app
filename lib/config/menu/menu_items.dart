@@ -17,11 +17,11 @@ const List<MenuItems> menuItems = [
   MenuItems(
       title: "Botones",
       subtitle: "Varios botones",
-      link: "/",
+      link: "/buttoms",
       icon: Icons.smart_button_outlined),
   MenuItems(
       title: "Tarjetas",
       subtitle: "Un contenedor estilizado",
-      link: "/card",
+      link: "/cards",
       icon: Icons.credit_card)
 ];
